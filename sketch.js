@@ -40,7 +40,7 @@ if (hasCollided(bullet, wall))
     
      wall.shapeColor= "green";
  }
-  drawSprites();
+ drawSprites();
 }
 
 
